@@ -1,6 +1,9 @@
 # Description
 A simple little tool that track your internet speed at regular intervals and store it in a `.txt` file. If your ISP is not giving you what they are promising, show them a written record ;)
 
+# Prerequisite
+- `python3`
+
 # Dependency
 - `speedtest-cli`
 
